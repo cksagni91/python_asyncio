@@ -1,2 +1,5 @@
 # python_asyncio
-Asyncio implementation examples with description
+
+Supports python 3.7+
+
+
